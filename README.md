@@ -30,7 +30,7 @@ MSc Data Science (University of Surrey, Merit 2:1). Background in data engineeri
 |---|---|---|
 | [🛒 Retail Customer Segmentation](https://github.com/RajProject7/retail-customer-analytics) | RFM + K-Means clustering on 4,338 customers & £8.91M revenue. Power BI dashboard | Python · Scikit-learn · Power BI |
 | [🏎️ F1 Race Outcome Predictor](https://github.com/RajProject7/f1-race-predictor) | XGBoost pipeline predicting race finishing positions. MAE 3.4 across 1,000+ simulations | Python · XGBoost · Streamlit |
-| [🤖 BERT Classification Service](https://github.com/RajProject7/NLP-Abbreviation-Detection-Web-Service) | ine-tuned BERT for NLP classification, 95% accuracy (solo fine-tuning; FastAPI deployment and MLflow tracking built as part of a team project) | PyTorch · FastAPI · MLflow |
+| [🤖 BERT Classification Service](https://github.com/RajProject7/NLP-Abbreviation-Detection-Web-Service) | Fine-tuned BERT for NLP classification, 95% accuracy (solo fine-tuning; FastAPI deployment and MLflow tracking built as part of a team project) | PyTorch · FastAPI · MLflow |
 | [📈 Financial Risk Forecasting API](https://github.com/RajProject7) | Serverless time-series forecasting on AWS Lambda + SageMaker. 40% infra cost reduction | AWS · Python · SageMaker |
 
 ---
