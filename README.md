@@ -27,7 +27,7 @@ MSc Data Science (University of Surrey, Merit 2:1). Background in data engineeri
 |---|---|---|
 | [🛒 Retail Customer Segmentation](https://github.com/RajProject7/retail-customer-analytics) | RFM + K-Means clustering on 4,338 customers & £8.91M revenue. Power BI dashboard | Python · Scikit-learn · Power BI |
 | [🏎️ F1 Race Outcome Predictor](https://github.com/RajProject7/f1-race-predictor) | XGBoost pipeline predicting race finishing positions. MAE 3.4 across 1,000+ simulations | Python · XGBoost · Streamlit |
-| 🕵️ Fraud Detection System *(in progress)* | XGBoost + SMOTE classifier on the Kaggle IEEE-CIS dataset, served via FastAPI | Python · XGBoost · FastAPI |
+| 🕵️ Fraud Detection System (https://github.com/RajProject7/elastic-cloud-compute-benchmarking/tree/main) | XGBoost + SMOTE classifier on the Kaggle IEEE-CIS dataset, served via FastAPI | Python · XGBoost · FastAPI |
 
 ---
 
